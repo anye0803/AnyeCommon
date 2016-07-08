@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OkHttpLibrary</string>
+    <string name="network_error">网络错误！</string>
+</resources>

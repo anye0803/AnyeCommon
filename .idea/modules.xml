@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnyeCommon.iml" filepath="$PROJECT_DIR$/AnyeCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/galleryfinal/galleryfinal.iml" filepath="$PROJECT_DIR$/ThirdPart/galleryfinal/galleryfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/okhttplibrary/okhttplibrary.iml" filepath="$PROJECT_DIR$/ThirdPart/okhttplibrary/okhttplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/rxretrofitlibrary/rxretrofitlibrary.iml" filepath="$PROJECT_DIR$/ThirdPart/rxretrofitlibrary/rxretrofitlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/swiperefreshlibrary/swiperefreshlibrary.iml" filepath="$PROJECT_DIR$/ThirdPart/swiperefreshlibrary/swiperefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPart/wkvideoplayer/wkvideoplayer.iml" filepath="$PROJECT_DIR$/ThirdPart/wkvideoplayer/wkvideoplayer.iml" />
+    </modules>
+  </component>
+</project>

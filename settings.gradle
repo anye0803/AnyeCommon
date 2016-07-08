@@ -1,0 +1,7 @@
+include ':app', ':base', ':swiperefreshlibrary', ':rxretrofitlibrary', ':test', ':okhttplibrary', ':wkvideoplayer', ':galleryfinal'
+
+project(':swiperefreshlibrary').projectDir = new File('ThirdPart/swiperefreshlibrary')
+project(':rxretrofitlibrary').projectDir = new File('ThirdPart/rxretrofitlibrary')
+project(':okhttplibrary').projectDir = new File('ThirdPart/okhttplibrary')
+project(':wkvideoplayer').projectDir = new File('ThirdPart/wkvideoplayer')
+project(':galleryfinal').projectDir = new File('ThirdPart/galleryfinal')
